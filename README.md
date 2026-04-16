@@ -1,6 +1,3 @@
-# to-do-app
-Desafio de criação de agenda de tarefas
-
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -193,7 +190,3 @@ Desafio de criação de agenda de tarefas
 
 </body>
 </html>
-
-{
-  "rewrites": [{ "source": "/(.*)", "destination": "/" }]
-}
