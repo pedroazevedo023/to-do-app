@@ -193,3 +193,7 @@ Desafio de criação de agenda de tarefas
 
 </body>
 </html>
+
+{
+  "rewrites": [{ "source": "/(.*)", "destination": "/" }]
+}
